@@ -1,0 +1,46 @@
+TLC Worker Version 2.10 of undefined
+Parsing file /tmp/1495098276044/MC.tla
+Parsing file /tmp/1495098276044/fn.tla
+Parsing file /tmp/1495098276044/TLC.tla
+Parsing file /tmp/1495098276044/Naturals.tla
+Parsing file /tmp/1495098276044/Sequences.tla
+Semantic processing of module Naturals
+Semantic processing of module Sequences
+Semantic processing of module TLC
+Semantic processing of module fn
+Semantic processing of module MC
+Starting... (2017-05-18 11:04:36)
+TLC worker with 4 threads ready at: Thu May 18 11:04:36 CEST 2017
+<< "slots:",
+   ( 0 :> [cap |-> "Mem", owner |-> 0, location |-> 0, locked |-> TRUE] @@
+     1 :>
+         [ cap |-> "Null",
+           owner |-> NoOwner,
+           location |-> 1,
+           locked |-> FALSE ] ) >>
+<< "slots'",
+   ( 0 :> [cap |-> "Mem", owner |-> 0, location |-> 0, locked |-> FALSE] @@
+     1 :>
+         [ cap |-> "Null",
+           owner |-> NoOwner,
+           location |-> 1,
+           locked |-> FALSE ] ) >>
+<< "slots:",
+   ( 0 :> [cap |-> "Mem", owner |-> 0, location |-> 0, locked |-> FALSE] @@
+     1 :>
+         [ cap |-> "Null",
+           owner |-> NoOwner,
+           location |-> 1,
+           locked |-> FALSE ] ) >>
+<< "slots'",
+   ( 0 :> [cap |-> "Mem", owner |-> 0, location |-> 0, locked |-> FALSE] @@
+     1 :>
+         [ cap |-> "Null",
+           owner |-> NoOwner,
+           location |-> 1,
+           locked |-> FALSE ] ) >>
+sgd-dalcoi7-09, work completed at: Thu May 18 11:04:36 CEST 2017 Computed: 2 and a cache hit ratio of 1, Thank you!
+sgd-dalcoi7-09, work completed at: Thu May 18 11:04:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+sgd-dalcoi7-09, work completed at: Thu May 18 11:04:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+sgd-dalcoi7-09, work completed at: Thu May 18 11:04:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+

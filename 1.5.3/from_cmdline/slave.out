@@ -1,0 +1,41 @@
+10.110.4.202
+TLC Worker Version 2.09 of 10 March 2017
+Parsing file /tmp/1495097135311/MC.tla
+Parsing file /tmp/1495097135311/fn.tla
+Parsing file /tmp/1495097135311/TLC.tla
+Parsing file /tmp/1495097135311/Naturals.tla
+Parsing file /tmp/1495097135311/Sequences.tla
+Semantic processing of module Naturals
+Semantic processing of module Sequences
+Semantic processing of module TLC
+Semantic processing of module fn
+Semantic processing of module MC
+Starting... (2017-05-18 10:45:35)
+TLC worker with 20 threads ready at: Thu May 18 10:45:36 CEST 2017
+<< "slots:",
+   ( 0 :> [cap |-> "Mem", owner |-> 0, location |-> 0, locked |-> TRUE] @@
+     1 :>
+         [ cap |-> "Null",
+           owner |-> NoOwner,
+           location |-> 1,
+           locked |-> FALSE ] ) >>
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
+emmentaler2.ethz.ch, work completed at: Thu May 18 10:45:36 CEST 2017 Computed: 0 and a cache hit ratio of 1, Thank you!
